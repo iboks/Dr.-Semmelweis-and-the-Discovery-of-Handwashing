@@ -1,9 +1,10 @@
 # Dr. Semmelweis and the Discovery of Handwashing
 
-Childbed fever: A deadly disease affecting women that just have given birth.This is a concern of Dr. Semmelweis as the number of deaths is alarmingly high, the contaminated hands of the doctors delivering the babies seem to be the cause. 
+Childbed fever: A deadly disease affecting women that just have given birth.
+This is a concern of Dr. Semmelweis as the number of deaths is alarmingly high, the contaminated hands of the doctors delivering the babies seem to be the cause. 
 We're going to reanalyze the data that made Semmelweis discover the importance of handwashing.
 
-Getting Started
+#Getting Started
 Prerequisities
 Python
   Pandas
@@ -12,5 +13,5 @@ Statistical Thinking
   Bootstrap Analysis
 Jupyter Nootbook
 
-Acknowledgement
+#Acknowledgement
 DataCamp's Dr. Semmelweis and the Discovery of Handwashing Project
