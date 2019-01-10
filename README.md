@@ -5,13 +5,13 @@ This is a concern of Dr. Semmelweis as the number of deaths is alarmingly high, 
 We're going to reanalyze the data that made Semmelweis discover the importance of handwashing.
 
 ## Getting Started
-## Prerequisities
+Prerequisities
 ```
 Python
-  Pandas
-  Matplotlib
+-Pandas
+-Matplotlib
 Statistical Thinking
-  Bootstrap Analysis
+-Bootstrap Analysis
 Jupyter Nootbook
 ```
 ## Acknowledgement
